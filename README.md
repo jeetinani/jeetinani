@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkxYWY5MXdmbGpiMTU2enE5cjVsZGw5emxqajlrNG05NWJ2d2tmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" align="right" alt="GIF" style="float: right; width: 200px;">
+
 ### Hello There👋
 
 - :joystick: I’m currently working as a Java Developer
