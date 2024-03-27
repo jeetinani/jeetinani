@@ -2,7 +2,7 @@
 
 ### Hello There👋
 
-- :joystick: I’m currently working as a Java Developer
+- 🕹️ I’m currently working as a Java Developer
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on fun projects.
 - 📫 Please reach me at : <a href =https://www.linkedin.com/in/jeet-inani-7637087b><img height="20" src="https://img.shields.io/badge/Jeet Inani-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a> <a href = mailto:jeetinani@gmail.com><img height="20" src="https://img.shields.io/badge/Jeet Inani-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
